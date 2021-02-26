@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently strngthening my Developement and Competitive Programing skill.
-- **Codechef rating : 1793 (3⭐)**. </br>
+- **Codechef rating : 1703 (3⭐)**. </br>
 - **Hackerrank : 6⭐**. </br>
 
 - 📫 How to reach me: ...
