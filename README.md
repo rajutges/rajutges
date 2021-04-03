@@ -19,9 +19,7 @@
 
 </a>
 <a href="mailto:rajur.ug18.ec@nitp.ac.in">
-  <img align="left" alt="Mail to RAJU" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/60/60543.svg?token=exp=1614325189~hmac=e29944d79de7c19d7537cf197a9b7f6e" />
-
-
+  <img align="left" alt="" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" />
 </a>
 <br>
 <br>
