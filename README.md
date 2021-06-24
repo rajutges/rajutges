@@ -28,4 +28,4 @@
  
 
   
-:pencil: [Resume](https://github.com/rajutges/resume/blob/main/r_resume.pdf)  |  [codechef](https://www.codechef.com/users/raju_tges)  |  [Hackerank](https://www.hackerrank.com/rajutges)
+:pencil: [Resume](https://github.com/rajutges/resume/blob/main/Deedy_CV%20(3).pdf)  |  [codechef](https://www.codechef.com/users/raju_tges)  |  [Hackerank](https://www.hackerrank.com/rajutges)
