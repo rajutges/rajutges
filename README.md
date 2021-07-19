@@ -6,7 +6,7 @@
 **ABOUT ME**
 
 
-- 🌱 I’m currently strngthening my Developement and Competitive Programing skill.
+- 🌱 I’m currently strengthening my Data structures and Programing skill.
 - **Codechef rating : 1703 (3⭐)**. </br>
 - **Hackerrank : 6⭐**. </br>
 
