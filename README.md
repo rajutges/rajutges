@@ -5,11 +5,11 @@
 
 **ABOUT ME**
 
-
+<!-- 
 - 🌱 I’m currently strengthening my Data structures and Programing skill.
 - **Codechef rating : 1703 (3⭐)**. </br>
 - **Hackerrank : 6⭐**. </br>
-
+ -->
 - 📫 How to reach me: ...
 
 
