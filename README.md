@@ -1,7 +1,7 @@
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 
-**I am Raju Ranjan, a B.Tech. Graduate having major in **Electronics and Communication Engineering** from**National Institute of Technology Patna** (2022 Batch)**
+**I am Raju Ranjan, a B.Tech. Graduate having major in **Electronics and Communication Engineering** from **National Institute of Technology Patna** (2022 Batch)**
 
 **ABOUT ME**
 
